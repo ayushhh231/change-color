@@ -1,0 +1,20 @@
+ .first{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(210, 72, 34);
+}
+.second{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(132, 247, 151);
+}
+.third{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(245, 234, 76);
+} 
+.theme{
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+}
